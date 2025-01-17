@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+// Colores
+// $color-primario:#aedbff;
+$color-primario:#bdf0fede;
+$color-secundario:#daa520;
+$color-3:#043f77;
+$color-circulo:#deeefa;
+$color-4:#fff;
+//$color-5:rgb(99, 163, 237);
+$color-5:#57dbff;
+$color-botones:#d7b661;
+$dorado-claro:#d7b661;
+
+//Fuentes
+
+$fuente-principal:'Playfair Display', serif;
+//$fuente-2:'Open Sans', sans-serif;
+$fuente-2:'Times New Roman';
+$fuente-3:"Style Script",cursive;
+
+// Variables para el control de la animación
+$duration: 0.5s;
+$delay: 0.5s;
+$easing: ease-out;
+
+// Variables para el control de la animación
+$duration-2: 0.7s;
+$delay: 0.5s;
+$easing: ease-out;
+
+// Variables para el control de la animación
+$duration-3: 0.9s;
+$delay: 0.5s;
+$easing: ease-out;

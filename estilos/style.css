@@ -169,7 +169,7 @@ header .encabezado .wave-container::before {
 }
 
 main {
-  background-image: url("../../imagenes/fondo.jpg");
+  background-image: url("../imagenes/fondo.jpg");
   background-color: rgba(189, 240, 254, 0.8705882353);
   display: grid;
   justify-content: center;

@@ -813,7 +813,7 @@ main .asistencia .link-de-asistencia {
 
 footer {
   background-color: rgba(189, 240, 254, 0.8705882353);
-  background-image: url("../../imagenes/fondo.jpg");
+  background-image: url("../imagenes/fondo.jpg");
 }
 footer .despedida {
   padding-top: 5rem;

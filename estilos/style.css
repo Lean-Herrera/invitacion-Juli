@@ -820,7 +820,7 @@ footer .despedida {
 footer .despedida .imagen-despedida {
   padding-top: 16%;
   padding-bottom: 16%;
-  background: url("../imagenes/pasaporte.jpg") center center;
+  background: url("../../imagenes/pasaporte.jpg") center center;
   position: relative;
   margin-bottom: 6rem;
   height: 650px;
